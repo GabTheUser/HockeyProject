@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - trap
+  - ball
+  - Bullet
+  - KeyB
+  - JoinB
+  - DeleteK
+  - updatek
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hightest
+  - Water
+  - UI
+  - trap
+  - ball
+  - other
+  - BattFollow
+  - layer for ICE
+  - layer for marketing tabel
+  - layer for TV tabel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: MenuOnScene
+    uniqueID: 3928803809
+    locked: 0
+  - name: High Level
+    uniqueID: 3923274979
+    locked: 0
+  - name: Top
+    uniqueID: 2512296857
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
